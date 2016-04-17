@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPhonebookOne</string>
+    <string name="title_activity_main">MyPhonebookOne</string>
+    <string name="title_activity_update">Contato</string>
+</resources>
